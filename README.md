@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @barbravel93 and I'm from Asturias, Spain. I've studied a Degree in Philosophy and a Master in Contemporary Culture Research.
+- 👋 Hi, I’m @barbravel93 and I'm from Asturias, Spain. I've studied a Degree in Philosophy and a Master in Contemporary Culture Research before I became a data scientist.
 - 👀 I’m interested in how programming can provide humanities with a more scientific status which allows us to understand better humankind.
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on social science data based researching, ethics and I.A. and, also, I'll love to help in bigger projects that allows me to  improve my coding skills
